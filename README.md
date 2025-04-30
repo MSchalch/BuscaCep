@@ -33,5 +33,5 @@ Projeto de busca de CEP que utiliza uma API pública (ViaCEP) para retornar info
 ### Backend (Spring Boot)
 
 ## 🧑‍💻 Autor
-Desenvolvido por `Matheus Schalch`.
+Desenvolvido por *Matheus Schalch*.
 
